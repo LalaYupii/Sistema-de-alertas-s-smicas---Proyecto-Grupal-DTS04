@@ -8,6 +8,7 @@ Projecto grupal
 * Oscar: Busqueda de información relacionada con sismos en paises latinoamericános, presentación de sismos y establecimiento de repositorio comunal.
 Puedes ver este commit?
 * Lala (después lo cambio XD): Busqueda de información relacionada con sismos en Japón. Acá hago mi segundo cambio.
+* Gise: Conectar a postgres y docker
 
 
 # Tareas.
