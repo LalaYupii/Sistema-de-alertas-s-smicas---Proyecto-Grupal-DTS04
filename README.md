@@ -6,6 +6,7 @@ Projecto grupal
 # Semana 1:
 
 * Oscar: Busqueda de información relacionada con sismos en paises latinoamericános, presentación de sismos y establecimiento de repositorio comunal.
+* Lala (después lo cambio XD): Busqueda de información relacionada con sismos en Japón.
 
 
 # Tareas.
