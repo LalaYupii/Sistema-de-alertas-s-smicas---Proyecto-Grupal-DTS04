@@ -60,13 +60,16 @@ Fuentes de datos obligatorias:
 
 Nota: El producto final debe tener en su etapa de *extraccion* los datos en formato JSON o GeoJSON. Formatos de texto como CSV podrian usarse en los pasos intermedios para hacer sus test respectivos de ser necesario, pero no seran admitidos en la entrega final.
 
-
-## Diccionario:
+## USGS 
+### Diccionario:
 https://earthquake.usgs.gov/data/comcat/index.php#tsunami
-## Documentación de API:
+### Documentación de API:
 https://earthquake.usgs.gov/fdsnws/event/1/
-## Rango de fechas/formatos disponibles por catálogo
+### Rango de fechas/formatos disponibles por catálogo
 https://earthquake.usgs.gov/data/comcat/catalog/us/
+### FDSN	Web	Service	Specifications
+http://www.fdsn.org/webservices/FDSN-WS-Specifications-1.0.pdf
+
 
 # Semana 1:
 
