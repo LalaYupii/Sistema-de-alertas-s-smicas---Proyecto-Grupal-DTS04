@@ -2,6 +2,8 @@
 Projecto grupal
 
 # Objetivo:
+### Diccionario:
+https://earthquake.usgs.gov/data/comcat/index.php#tsunami
 
 # Semana 1:
 
