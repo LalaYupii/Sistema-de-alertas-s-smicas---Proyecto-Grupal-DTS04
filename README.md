@@ -65,6 +65,8 @@ Nota: El producto final debe tener en su etapa de *extraccion* los datos en form
 https://earthquake.usgs.gov/data/comcat/index.php#tsunami
 ## Documentación de API:
 https://earthquake.usgs.gov/fdsnws/event/1/
+## Rango de fechas/formatos disponibles por catálogo
+https://earthquake.usgs.gov/data/comcat/catalog/us/
 
 # Semana 1:
 
